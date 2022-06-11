@@ -1,4 +1,4 @@
-TRACCIA
+<b><h>TRACCIA</h></b>
 
 La società gestisce le forniture dei propri clienti ed ogni fornitura è assegnata ad una unità abitativa del cliente. Ogni cliente può possedere più unità abitative ed ogni unità abitativa può avere più forniture ma di diverso tipo. Ogni unità abitativa è caratterizzata da un indirizzo. L'indirizzo è formato da via, numero civico, numero interno, città e codice di avviamento postale. Ogni unità abitativa corrisponde ad un solo cliente. Il cliente è caratterizzato dal proprio nome, cognome, codice fiscale, e da un codice cliente univoco (numerico).
 Ogni fornitura è caratterizzata da un identificativo univoco, il tipo della fornitura, una tariffa unitaria (ossia il costo in euro per unità di fornitura), ed il tipo di Unità di fornitura. Possibili tipi di fornitura sono energia elettrica, gas, acqua e le rispettive unità di fornitura sono KiloWattOra, Metri Cubi, e Metri Cubi. 
